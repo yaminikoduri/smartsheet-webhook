@@ -1,0 +1,34 @@
+{
+  "name": "smartsheet-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaminikoduri/smartsheet-webhook.git"
+  },
+  "author": "Yamini Koduri",
+  "license": "ISC",
+  "dependencies": {
+    "adal-node": "0.1.23",
+    "asyncawait": "1.0.6",
+    "body-parser": "1.18.2",
+    "crypto": "1.0.1",
+    "email-templates": "3.1.5",
+    "express": "4.16.2",
+    "lodash.merge": "4.6.0",
+    "morgan": "1.9.0",
+    "nodemailer": "4.3.1",
+    "pug": "2.0.0-rc.4",
+    "request": "2.83.0",
+    "request-promise-native": "1.0.5",
+    "smartsheet": "1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/yaminikoduri/smartsheet-webhook/issues"
+  },
+  "homepage": "https://github.com/yaminikoduri/smartsheet-webhook#readme"
+}
